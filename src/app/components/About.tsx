@@ -79,7 +79,7 @@ export function About() {
               style={{ transform: "rotate(-2deg)" }}
             >
               <ImageWithFallback
-                src="src\imports\pritiImage.jpeg"
+                src="/images/pritiImage.jpeg"
                 alt="Priti Poddar"
                 className="w-full h-120 object-cover"
               />
