@@ -87,7 +87,3 @@ Built by **Priti Poddar** · B.Tech CSE · ACM Student Member
 ```
 
 ---
-
-**GitHub Topics to add** (paste into repo topics field):
-```
-portfolio react typescript tailwind-css framer-motion emailjs vite personal-website web-development
